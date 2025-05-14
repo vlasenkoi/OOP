@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\bin\Debug\lab19.exe.config
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\bin\Debug\lab19.exe
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\bin\Debug\lab19.pdb
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\bin\Debug\System.CodeDom.dll
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\bin\Debug\System.CodeDom.xml
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.Form1.resources
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.Properties.Resources.resources
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.csproj.GenerateResource.cache
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.csproj.Up2Date
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.exe
+C:\Users\user\Desktop\власенко ооп\lab19\lab19\obj\Debug\lab19.pdb
